@@ -12,7 +12,7 @@ In addition, Howard uses code examples to show how these concepts work in practi
 
 Gradient descent is a first-order optimization algorithm. To find the local minimum of a function using gradient descent, the function must be iteratively searched for a specified step distance point in the opposite direction of the previous point corresponding to the gradient (or approximate gradient).
 
-![](gradientdecent.png)
+![](_posts/gradientdecent.png)
 
 Gradient descent is a kind of iterative method that can be used to solve linear and nonlinear least squares problems. When solving the model parameters of machine learning algorithms such as unconstrained optimization problems, gradient descent and least squares are the most commonly used methods.
 
